@@ -88,3 +88,135 @@ I focus on writing maintainable code, applying design patterns, and building rea
 ---
 
 ⭐️ From [amdadus-sobhan](https://github.com/amdadus-sobhan)
+
+
+
+<!-- 🔥 Animated Header -->
+<h1 align="center">Hi 👋, I'm Amdadus Sobhan</h1>
+<h3 align="center">🚀 Software Developer | .NET & React | System Design Enthusiast</h3>
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=.NET+Developer;React+Developer;API+Specialist;Clean+Architecture+Lover;Always+Learning+New+Things&center=true&width=500&height=45">
+</p>
+
+---
+
+## 👨‍💻 Who Am I
+
+I'm a software developer focused on building **scalable, maintainable, and real-world applications**.
+
+💡 I enjoy solving complex problems and turning them into clean, efficient systems.  
+⚙️ My core strength lies in **backend development using .NET Core** and building interactive UIs with **React**.
+
+---
+
+## 🧠 Engineering Mindset
+
+- 🏗️ Clean Architecture & SOLID principles  
+- 🔁 Design Patterns (Factory, Repository, CQRS)  
+- ⚡ Performance & optimization mindset  
+- 🔐 Secure & scalable API design  
+
+---
+
+## ⚙️ Tech Stack
+
+### 💻 Backend
+<p>
+  <img src="https://skillicons.dev/icons?i=dotnet,cs" />
+</p>
+
+### 🎨 Frontend
+<p>
+  <img src="https://skillicons.dev/icons?i=react,js,html,css,tailwind" />
+</p>
+
+### 🗄️ Database
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,postgres" />
+</p>
+
+### 🛠️ Tools & DevOps
+<p>
+  <img src="https://skillicons.dev/icons?i=git,docker,redis" />
+</p>
+
+---
+
+## 🚀 Current Focus
+
+- 🔹 Building production-ready APIs with .NET  
+- 🔹 Learning Microservices & Distributed Systems  
+- 🔹 Writing clean, testable, and maintainable code  
+- 🔹 Improving system design & architecture skills  
+
+---
+
+## 📌 Featured Projects
+
+### 🛒 Booking System API  
+✔ Clean Architecture  
+✔ Business rule validation  
+✔ Calendar-based booking logic  
+
+👉 https://github.com/amdadus-sobhan
+
+---
+
+### 👥 User Management System  
+✔ Authentication & Authorization  
+✔ Role-based access  
+✔ React + .NET integration  
+
+👉 https://github.com/amdadus-sobhan
+
+---
+
+### 🧾 Event Management System  
+✔ PHP + MySQL  
+✔ Event lifecycle management  
+
+👉 https://github.com/amdadus-sobhan
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amdadus-sobhan&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://streak-stats.demolab.com?user=amdadus-sobhan&theme=tokyonight" />
+</p>
+
+---
+
+## 🏆 Achievements (Growing...)
+
+- 🚀 Built multiple full-stack applications  
+- 📦 Developed scalable backend APIs  
+- 📚 Continuously learning advanced system design  
+
+---
+
+## 🎯 Future Goals
+
+- 🔥 Become a senior software engineer  
+- 🧠 Master microservices architecture  
+- 🏗️ Build enterprise-grade systems  
+
+---
+
+## 📫 Connect With Me
+
+<p>
+  <a href="https://linkedin.com/">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="mailto:your-email@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" />
+  </a>
+</p>
+
+---
+
+<p align="center">⭐️ From <a href="https://github.com/amdadus-sobhan">amdadus-sobhan</a></p>
